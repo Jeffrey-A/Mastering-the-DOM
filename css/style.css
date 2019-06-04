@@ -13,15 +13,14 @@ html, body{
 .square:hover{
     cursor: pointer;
 }
-/* button{
-    display: block;
-} */
+
 
 .options-container{
     display: flex;
     justify-content: space-evenly;
     background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
     padding-bottom: 20px;
+    flex-wrap: wrap;
 }
 
 label{
