@@ -76,7 +76,12 @@ const createRow = () =>{
 }
 
 const createCol = () =>{
-    let rows = Array.from(gridContainer.children);
+    let rows; 
+    if(gridContainer.children.length){
+        rows = Array.from(gridContainer.children);
+    }else{
+        rows =[]; 
+    }
     
     for(let i=0; i< rows.length; i++){
         let item = document.createElement("div");
