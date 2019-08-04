@@ -1,6 +1,5 @@
 # Mastering the DOM  
-## Assignment:  
-Complete the following user stories:  
+## user stories:   
 As a user, I can:  
 ●	add rows to the grid  
 ●	add columns to the grid  
@@ -11,7 +10,7 @@ As a user, I can:
 ●	fill all uncolored cells with the currently selected color  
 ●	fill all cells with the currently selected color  
 ●	clear all cells/restore all cells to their original/initial color  
-●	click and hold (mouseover) from a single cell (start) to a different cell (end) such that all affected/hovered-over cells from start to end change to the currently selected color  
+●	click and hold from a single cell (start) to a different cell (end) such that all affected/hovered-over cells from start to end change to the currently selected color.  
   
-Live demo: https://jeffrey-a.github.io/TTPAssignment-4/
+Live demo: https://jeffrey-a.github.io/Mastering-the-DOM/
 
