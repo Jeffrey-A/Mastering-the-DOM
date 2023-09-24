@@ -1,4 +1,4 @@
-# Mastering the DOM  
+# Mastering the Document Object Model (DOM)  
 ## user stories:   
 As a user, I can:  
 ●	add rows to the grid  
